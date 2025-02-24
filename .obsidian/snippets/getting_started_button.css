@@ -1,0 +1,11 @@
+.start_graph_view {
+  display: flex;
+  justify-content: center;
+}
+
+.start_graph_view button{
+  height: 9rem;
+  width: 24rem;
+  font-size: 3rem;
+  border-radius: 1rem;
+}

@@ -1,0 +1,18 @@
+ul > li.task-list-item[data-task="x"] ,
+ul > li.task-list-item[data-task="X"] {
+  text-decoration: none;
+}
+
+ul > li.task-list-item[data-task="x"] .task-description,
+ul > li.task-list-item[data-task="X"] .task-description {
+  text-decoration: line-through;
+  font-style: italic;
+  opacity: 0.6;
+}
+
+
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] {
+  font-style: italic;
+  opacity: 0.6;
+}

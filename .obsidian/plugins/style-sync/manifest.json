@@ -1,0 +1,11 @@
+{
+	"id": "style-sync",
+	"name": "Style Sync",
+	"version": "0.0.1",
+	"minAppVersion": "0.0.1",
+	"description": "Init style ban đầu cho ứng dụng",
+	"author": "Đào Anh Thành",
+	"authorUrl": "https://github.com/daoanhthanh",
+	"fundingUrl": "https://github.com/daoanhthanh",
+	"isDesktopOnly": false
+}

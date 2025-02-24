@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabReadme",
+      "LiListTodo",
+      "LiCloudCog",
+      "LiGlobe",
+      "LiCassetteTape"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": true
+  },
+  "CTO career": "LiDatabase",
+  "SQL": "LiSquareLibrary",
+  "CTO career/Linux": "🐧",
+  "CTO career/AWS developer cert": "☁",
+  "SQL/Sql Server optimization": "LiDatabase",
+  "SQL/Sql Server optimization/1. Table concepts/media": "LiCassetteTape",
+  "eeeCloud": "LiCloudCog",
+  "Readme.md": "FabReadme"
+}

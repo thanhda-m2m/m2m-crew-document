@@ -1,0 +1,115 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 2,
+    "longDelaySeconds": 5,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "short",
+    "showDescriptions": true,
+    "plugins": {
+      "table-editor-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-banners": {
+        "startupType": "long"
+      },
+      "cmdr": {
+        "startupType": "long"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "obsidian-diagrams-net": {
+        "startupType": "long"
+      },
+      "editing-toolbar": {
+        "startupType": "instant"
+      },
+      "excalibrain": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "long"
+      },
+      "obsidian-image-toolkit": {
+        "startupType": "long"
+      },
+      "obsidian-kanban": {
+        "startupType": "long"
+      },
+      "obsidian-meta-bind-plugin": {
+        "startupType": "long"
+      },
+      "omnisearch": {
+        "startupType": "instant"
+      },
+      "obsidian-outliner": {
+        "startupType": "long"
+      },
+      "recent-files-obsidian": {
+        "startupType": "instant"
+      },
+      "remember-cursor-position": {
+        "startupType": "long"
+      },
+      "settings-search": {
+        "startupType": "long"
+      },
+      "obsidian-style-settings": {
+        "startupType": "long"
+      },
+      "style-sync": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "long"
+      },
+      "text-extractor": {
+        "startupType": "long"
+      },
+      "beautitab": {
+        "startupType": "instant"
+      },
+      "magic-move": {
+        "startupType": "instant"
+      },
+      "obsidian-plantuml": {
+        "startupType": "short"
+      },
+      "templater-obsidian": {
+        "startupType": "short"
+      },
+      "diagram-zoom-drag": {
+        "startupType": "short"
+      },
+      "find-unlinked-files": {
+        "startupType": "short"
+      },
+      "mermaid-tools": {
+        "startupType": "short"
+      },
+      "obsidian-advanced-slides": {
+        "startupType": "short"
+      },
+      "slides-extended": {
+        "startupType": "short"
+      },
+      "editor-width-slider": {
+        "startupType": "short"
+      },
+      "obsidian-advanced-uri": {
+        "startupType": "short"
+      },
+      "obsidian-text-format": {
+        "startupType": "short"
+      }
+    }
+  }
+}

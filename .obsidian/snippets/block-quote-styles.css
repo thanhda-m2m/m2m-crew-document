@@ -1,0 +1,73 @@
+:root {
+    --theme-color-translucent-04: hsla(208, 64%, 49%, 0.4);
+    --radius-m: 0.6rem;
+}
+
+body.blockquote-style-outline :is(.markdown-rendered) blockquote {
+    border: 3px solid var(--theme-color-translucent-04);
+    background-color: transparent;
+    border-radius: var(--radius-m);
+}
+
+.markdown-rendered blockquote {
+    border: 3px solid var(--theme-color-translucent-04);
+    background-color: transparent;
+    border-radius: var(--radius-m);
+    padding: 0.6rem 0.6rem 0.6rem 1rem;
+}
+
+blockquote:before,
+blockquote:after {
+    position: absolute;
+    color: var(--text-faint);
+    font-size: 6rem;
+    width: 4rem;
+    height: 4rem;
+    font-family: "Times New Roman", monospace;
+}
+
+blockquote:before {
+    content: "“";
+    left: -1.5rem;
+    top: -3rem;
+}
+
+blockquote:after {
+    content: "”";
+    right: -3rem;
+    bottom: -1rem;
+}
+
+.el-blockquote {
+    margin: 1rem 1.5rem;
+}
+
+blockquote {
+    font-family: monospace;
+    font-weight: 100;
+    line-height: 1.4;
+    position: relative;
+    /* padding: 0.5rem; */
+    border-left: none;
+}
+
+blockquote {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+    cite {
+        font-style: italic;
+        color: #666;
+        display: block;
+        text-align: right;
+    }
+
+    cite:before {
+        content: "— ";
+    }
+
+    cite:after {
+        content: " —";
+    }
+}

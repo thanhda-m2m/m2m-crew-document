@@ -1,0 +1,15 @@
+**/.DS_Store
+.idea
+.code
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/remember-cursor-position/cursor-positions.json
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+!.obsidian/themes/Encore/*
+.obsidian/themes/*
+.obsidian/plugins/style-sync/data.json
+.obsidian/plugins/beautitab/*
+.obsidian/plugins/editor-width-slider/data.json
+
+export

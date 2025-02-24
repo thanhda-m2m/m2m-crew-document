@@ -1,0 +1,44 @@
+img {
+    max-width: 100% !important;
+    border-radius: 0.6rem !important;
+}
+
+.image-embed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+}
+
+.excalidraw-svg[alt]::after {
+    content: attr(alt);
+    display: block;
+    text-align: center;
+    margin: 0.2rem 1rem 1rem 1rem;
+    font-size: 90%;
+    line-height: 1.4;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.image-embed[alt]::after {
+    content: attr(alt);
+    display: block;
+    text-align: center;
+    margin: 0.2rem 1rem 1rem 1rem;
+    font-size: 90%;
+    line-height: 1.4;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.block-language-plantuml {
+    display: flex;
+    /* flex-direction: column;
+    align-items: center;
+    margin: 0; */
+    justify-content: center;
+    text-align: center;
+}

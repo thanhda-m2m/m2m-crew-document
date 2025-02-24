@@ -1,0 +1,24 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Encore",
+  "enabledCssSnippets": [
+    "test-images",
+    "image-styles",
+    "image_legends",
+    "displaycontent",
+    "getting_started_button",
+    "font",
+    "block-quote-styles",
+    "folder-styles",
+    "task-list-styles",
+    "tab-and-toolbar"
+  ],
+  "interfaceFontFamily": "Cascadia Code NF",
+  "textFontFamily": "Cascadia Code NF",
+  "nativeMenus": false,
+  "theme": "system",
+  "translucency": false,
+  "showViewHeader": true,
+  "accentColor": "#976bff",
+  "baseFontSizeAction": true
+}

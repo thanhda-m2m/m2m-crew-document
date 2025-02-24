@@ -1,0 +1,1 @@
+{"path":"Pasted image 20241223103458.png","text":"~/demo > 1s -1 sayHi.sh before .ruxrw-r-- thanh_da developers 367 B Fri Dec 20 12:41:55 2024 & sayHi.sh ~/demo > chmod g+x ./sayHi.sh ~/demo > 1s -1 sayHi.sh after .rwxrwxr-- thanh_da developers 367 B Fri Dec 20 12:41:55 2024 & sayHi.sh","libVersion":"0.3.2","langs":"eng"}

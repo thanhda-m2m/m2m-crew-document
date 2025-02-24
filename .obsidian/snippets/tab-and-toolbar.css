@@ -1,0 +1,4 @@
+.mod-macos.is-hidden-frameless:not(.is-popout-window)
+    .sidebar-toggle-button.mod-right {
+    background-color: transparent;
+}

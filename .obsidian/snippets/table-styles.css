@@ -1,0 +1,26 @@
+table {
+    width: 100% !important;
+    /* overflow-x: scroll; */
+}
+
+table,
+thead,
+tbody,
+th,
+td {
+    border: 1px solid !important;
+}
+
+.table-wrapper {
+    width: 100%;
+}
+
+.table-row-btn,
+.table-col-btn {
+    border: 1px solid !important;
+}
+
+th,
+td  {
+    padding: 0.5rem !important;
+}
