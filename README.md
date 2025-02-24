@@ -1,7 +1,9 @@
 # Tài liệu hệ thống KIGYOU (tên cũ Crew)
 
 
+## Mục lục
 
+1. Giới thiệu
 
 
 Kigyou là hệ thống quản lý nội dung tuyển dụng - **Recruitment CMS** - cho GAYA, một nền tảng tìm việc. 
