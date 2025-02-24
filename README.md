@@ -3,11 +3,14 @@
 
 ## Mục lục
 
-1. Giới thiệu
+1. [[Giới thiệu]]
 2. Ràng buộc
 3. Phạm vi ngữ cảnh
 4. Các khái niệm xuyên suốt
-5. 1 Building block view
+5. Building block view
+6. Runtime view
+7. Rủi ro và nợ kỹ thuật
+8. Chú giải
 
 
 Kigyou là hệ thống quản lý nội dung tuyển dụng - **Recruitment CMS** - cho GAYA, một nền tảng tìm việc. 
