@@ -4,6 +4,9 @@
 ## Mục lục
 
 1. Giới thiệu
+2. 
+3. Logic phát triển
+4. Lưu ý
 
 
 Kigyou là hệ thống quản lý nội dung tuyển dụng - **Recruitment CMS** - cho GAYA, một nền tảng tìm việc. 
