@@ -1,1 +1,1 @@
-Crew là hệ thống CRM 
+Kigyou (*Crew*) là hệ thống quản lý nội dung tuyển dụng (**Recruitment CMS**) cho GAYA
