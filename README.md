@@ -4,9 +4,10 @@
 ## Mục lục
 
 1. Giới thiệu
-2. 
-3. Logic phát triển
-4. Lưu ý
+2. Ràng buộc
+3. Phạm vi ngữ cảnh
+4. Các khái niệm xuyên suốt
+5. 1 Building block view
 
 
 Kigyou là hệ thống quản lý nội dung tuyển dụng - **Recruitment CMS** - cho GAYA, một nền tảng tìm việc. 
