@@ -3,3 +3,4 @@ Kigyou là hệ thống quản lý nội dung tuyển dụng - **Recruitment CM
 
 Usecase của hệ thống được thể hiện như hình dưới
 
+![[Diagram.svg]]
