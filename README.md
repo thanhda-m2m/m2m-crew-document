@@ -3,7 +3,7 @@
 
 ## Mục lục
 
-1. [[Giới thiệu]]
+1. [Giới thiệu](src/1.%20Gi%E1%BB%9Bi%20thi%E1%BB%87u.md)
 2. Ràng buộc
 3. Phạm vi ngữ cảnh
 4. Các khái niệm xuyên suốt
