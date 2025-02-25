@@ -10,8 +10,9 @@
 4. [Các khái niệm xuyên suốt](src/4.%20Các%20khái%20niệm%20xuyên%20suốt.md)
 5. [Building block view](src/5.%20Building%20block%20view.md)
 6. [Runtime view](src/6.%20Runtime%20view.md)
-7. [Rủi ro và nợ kỹ thuật](7.%20Rủi%20ro%20và%20nợ%20kỹ%20thuật.md)
-8. [Chú giải](8.%20Chú%20giải.md)
+7. [Deployment view](7.%20Deployment%20view.md)
+8. [Rủi ro và nợ kỹ thuật](8.%20Rủi%20ro%20và%20nợ%20kỹ%20thuật.md)
+9. [Chú giải](9.%20Chú%20giải.md)
 
 
 Kigyou là hệ thống quản lý nội dung tuyển dụng - **Recruitment CMS** - cho GAYA, một nền tảng tìm việc.
