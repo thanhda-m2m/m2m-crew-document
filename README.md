@@ -4,7 +4,7 @@
 ## Mục lục
 
 1. [Giới thiệu](src/1.%20Gi%E1%BB%9Bi%20thi%E1%BB%87u.md)
-2. Ràng buộc
+2. [Ràng buộc](src/2.%20Ràng%20buộc.md)
 3. Phạm vi ngữ cảnh
 4. Các khái niệm xuyên suốt
 5. Building block view
